@@ -29,7 +29,7 @@ Deze is standaard aanwezig in Arduino IDE
 ## Temperatuur of hoek aanpassen
 In de code kan je de temperatuur of hoek aanpassen, na het map commando
 
-> waarde = map(temperatuur,19,30,90,170); 
+`waarde = map(temperatuur,19,30,90,170); `
 
 In dit voorbeeld zie je de min. en max. inputwaarde voor temperatuur  (van 19 tot 30°C)
 De waarde wordt gemapt naar min. en max. outputwaarde voor de hoek van de servo (van 90 tot 170°)
