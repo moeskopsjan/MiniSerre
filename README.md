@@ -14,7 +14,7 @@ Als uitbreiding kan je ook een LCD 1602 met I2C module aansluiten, zodat je de t
 
 ## Aansluiting met LCD
 ![MiniSerreMetLCD](https://github.com/moeskopsjan/MiniSerre/blob/main/ArduinoUnoTempSensServoLCD_labels.PNG)
-
+Klik op deze afbeelding om het filmpje te bekijken.
 
 ## Libraries
 De Arduinocode gebaseerd is op de voorbeeldprogramma's die bij de libraries inbegrepen zit.
