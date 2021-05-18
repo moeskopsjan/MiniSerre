@@ -6,7 +6,7 @@ Deze miniserre kan men binnen voor een raam in het zonlicht plaatsen.  Bij een b
 Als uitbreiding kan je ook een LCD 1602 met I2C module aansluiten, zodat je de temperatuur en de hoek van de servo kan controlleren.
 
 [![Filmje MiniSerre](https://img.youtube.com/vi/UeEgPPbJhDw/0.jpg)](https://youtu.be/UeEgPPbJhDw)
-
+Klik op deze afbeelding hierboven om het filmpje te bekijken
 
 
 ## Aansluiting zonder LCD
